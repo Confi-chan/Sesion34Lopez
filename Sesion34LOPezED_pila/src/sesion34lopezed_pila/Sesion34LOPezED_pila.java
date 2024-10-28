@@ -28,6 +28,8 @@ public class Sesion34LOPezED_pila {
         
         JOptionPane.showMessageDialog(null, "Datos en pila ordenada es: \n"+pilaLopez);
         
+        JOptionPane.showMessageDialog(null,"Autor:Sofia Lopez");
+        
     }
     
 }
